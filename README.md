@@ -13,3 +13,9 @@ In our project, we focused only on AD prediction and classified patients into 4 
 stages: 
 
 Non Demented, Very Mild Demented, Mild Demented and Moderate Demented.
+
+## Dataset
+
+Data may be found at:
+
+https://www.kaggle.com/datasets/tourist55/alzheimers-dataset-4-class-of-images
